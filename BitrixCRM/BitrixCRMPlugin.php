@@ -18,7 +18,7 @@ class BitrixCRMPlugin extends AbstractPlugin
     const TITLE = 'Bitrix24 CRM';
     const DESCRIPTION = 'Плагин для интеграции с Bitrix24';
     const AUTHOR = 'Aleksey Ilyin';
-    const AUTHOR_SITE = 'https://site.0x12f.com';
+    const AUTHOR_SITE = 'https://getwebspace.org';
     const VERSION = '1.0';
 
     public function __construct(ContainerInterface $container)
